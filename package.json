@@ -20,12 +20,13 @@
     "mongoose-unique-validator": "^3.1.0",
     "nodemon": "^2.0.16"
   },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phuongcps/lucky-dice-api.git"
+    "url": "git+https://github.com/nghianm93/lucky-dice-testing.git"
   },
   "bugs": {
-    "url": "https://github.com/phuongcps/lucky-dice-api/issues"
+    "url": "https://github.com/nghianm93/lucky-dice-testing/issues"
   },
-  "homepage": "https://github.com/phuongcps/lucky-dice-api#readme"
+  "homepage": "https://github.com/nghianm93/lucky-dice-testing#readme"
 }
